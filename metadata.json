@@ -1,0 +1,7 @@
+{
+  "name": "(E^3)_GOLD_Demo",
+  "description": "A specialized assistant for community colleges and workforce partners to scale employer engagement.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
